@@ -1,8 +1,3 @@
-/**
- * Weather API Integration Module
- * Handles all weather-related API calls and UI updates
- */
-
 import jQuery from "jquery";
 import { db } from "../backend/app_backend";
 import { getCurrentDate } from "../inc/scripts/utilities";
